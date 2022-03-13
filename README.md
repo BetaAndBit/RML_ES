@@ -1,4 +1,6 @@
-# The Hitchhiker’s Guide to Responsible Machine Learning - Spanish Edition
+# La Guía del Viajero al Aprendizaje Automático Responsable
+
+## The Hitchhiker’s Guide to Responsible Machine Learning - Spanish Edition
 
 Este libro es un enredo único de teoría, ejemplos y procesos relevantes para el Aprendizaje Automático Responsable. Encontrará intuiciones y ejemplos para el Aprendizaje Automático Interpretable (IML) y la Inteligencia Artificial eXplicable (XAI). Las descripciones se complementan con fragmentos de código con ejemplos para R con el uso de los paquetes `randomForest`, `mlr3` y `DALEX`. Finalmente, el proceso se muestra a través de un cómic que describe las aventuras de dos personajes, Beta y Bit. La interacción de estos dos muestra las decisiones a las que a menudo se enfrentan los analistas, ya sea para probar un modelo diferente, para probar otra técnica de exploración o para buscar otros datos, cuestiones como la comparación de modelos o su validación.
 
